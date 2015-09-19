@@ -158,6 +158,13 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #ff9533;
   border: none; }
 
+.site-header > .navbar-default {
+  background-image: none; }
+
+.site-header .navbar-brand {
+  height: auto;
+  padding: 7px 15px; }
+
 .site-header h1 {
   color: white;
   text-align: center;
@@ -166,7 +173,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 30px; }
 
 #header-logo {
-  height: 100px;
+  height: 70px;
   display: inline;
   margin: 0 auto; }
 

@@ -142,15 +142,15 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
-/**
-* Site header
-*/
 * {
   font-family: 'Open Sans', sans-serif; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto Slab', serif; }
 
+/**
+* Site header
+*/
 .navbar {
   background-color: #ff9533;
   border: none;
@@ -164,6 +164,9 @@ h1, h2, h3, h4, h5, h6 {
   @media screen and (max-width: 768px) {
     #nav-icons {
       display: none; } }
+
+.navbar.navbar-default {
+  margin-bottom: 0; }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:active,
@@ -212,6 +215,13 @@ h1, h2, h3, h4, h5, h6 {
   height: 70px;
   display: inline;
   margin: 0 auto; }
+
+/**
+* Site body
+*/
+.page-content {
+  background-image: url("/images/brewmather-bg-small.png");
+  background-color: #fee3ca; }
 
 /**
  * Site footer

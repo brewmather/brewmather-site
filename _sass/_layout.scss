@@ -13,17 +13,59 @@ h1, h2, h3, h4, h5, h6 {
 
 $main-orange: rgb(255,149,51);
 
-.site-header {
-    background-color: $main-orange;
-}
-
 .navbar {
     background-color: darken($main-orange, 0%);
     border: none;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+
+#nav-icons {
+    position: absolute;
+    top: 35px;
+    right: 30px;
+    @include media-query($bootstrap-width) {
+        display: none;
+    } 
+}
+
+.navbar-default .navbar-toggle:hover, 
+.navbar-default .navbar-toggle:active, 
+.navbar-default .navbar-toggle:focus {
+    background-color: lighten($main-orange, 10%);
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+#nav-icons > li > a {
+    padding: 15px 5px
+}
+
+#nav-icons > li > a:hover {
+    border: none;
+    color: lighten($main-orange, 30%);
 }
 
 .site-header > .navbar-default {
     background-image: none;
+}
+
+.navbar-default .navbar-brand, 
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav>li>a,
+.navbar-default .navbar-nav>li>a:hover {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: lighten($main-orange, 30%);
+    @include media-query-min($bootstrap-width) {
+        padding-top: 10px;
+        border-top: 5px solid lighten($main-orange, 30%);
+        padding-top: -5px;
+    }   
 }
 
 .site-header .navbar-brand {

@@ -151,15 +151,51 @@ pre {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto Slab', serif; }
 
-.site-header {
-  background-color: #ff9533; }
-
 .navbar {
   background-color: #ff9533;
-  border: none; }
+  border: none;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0; }
+
+#nav-icons {
+  position: absolute;
+  top: 35px;
+  right: 30px; }
+  @media screen and (max-width: 768px) {
+    #nav-icons {
+      display: none; } }
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:active,
+.navbar-default .navbar-toggle:focus {
+  background-color: #ffb066; }
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white; }
+
+#nav-icons > li > a {
+  padding: 15px 5px; }
+
+#nav-icons > li > a:hover {
+  border: none;
+  color: #ffe5cc; }
 
 .site-header > .navbar-default {
   background-image: none; }
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:hover {
+  color: white; }
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #ffe5cc; }
+  @media screen and (min-width: 768px) {
+    .navbar-default .navbar-nav > li > a:hover {
+      padding-top: 10px;
+      border-top: 5px solid #ffe5cc;
+      padding-top: -5px; } }
 
 .site-header .navbar-brand {
   height: auto;

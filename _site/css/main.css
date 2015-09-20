@@ -223,6 +223,11 @@ h1, h2, h3, h4, h5, h6 {
   background-image: url("/images/brewmather-bg-small.png");
   background-color: #fee3ca; }
 
+.wrapper {
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px; }
+
 /**
  * Site footer
  */

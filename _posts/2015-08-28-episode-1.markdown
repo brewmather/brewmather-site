@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Lorem Ipsum"
-date:   2015-09-11 19:50:39
-categories: jekyll update
+title:  "Episode 1: Selecting a New Toast, dIPAs, and Coloring Books"
+date:   2015-08-28  20:00:00
+trackId: 221643598
 ---
+
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum porro perferendis ea asperiores quaerat voluptates aspernatur dolor expedita reprehenderit enim reiciendis ipsum, maiores, odit fuga nam soluta perspiciatis, rerum pariatur sapiente repellat doloremque itaque! Officiis excepturi incidunt natus ratione ex, harum enim reprehenderit illum aperiam, iste quidem, assumenda repellendus omnis dolores a alias facere ducimus reiciendis tempora unde voluptate, nisi doloremque. Aperiam veniam, reprehenderit atque eum. Esse aliquid magni nesciunt laudantium asperiores amet blanditiis corporis deserunt veritatis enim totam ad quisquam alias odit perspiciatis, temporibus, consectetur expedita, voluptates minima. Consectetur repellendus voluptas nesciunt quis debitis quibusdam, a eveniet unde officiis!</p>
 <p>Minus corrupti, at magni consequuntur deserunt unde optio doloribus, sunt numquam obcaecati delectus incidunt inventore odio velit quidem molestiae molestias fugiat officia nam error soluta quo corporis eum odit officiis. Dolor nulla excepturi nobis dignissimos aspernatur, veritatis non accusamus. Obcaecati praesentium enim harum dicta quia quis beatae temporibus, alias veritatis vero eligendi aut ipsa corporis, dolorem. Beatae ratione illum corporis est, ab optio quae quia eaque incidunt, error veniam enim ut deleniti ex. Praesentium voluptatum iusto vero! Vel ipsa, quos debitis illo dolores quod nobis, blanditiis voluptatum dolor, aliquam quae odit itaque molestiae reprehenderit unde ex, consequatur in esse fugiat.</p>
 <p>Ratione veritatis ipsam expedita earum quis rerum, dolore nobis aperiam eum placeat ab aliquid error facere cumque ex nam dignissimos dolores voluptatum, esse vitae eligendi architecto sed! Ratione rem recusandae, tempora aliquam dicta aspernatur eveniet, voluptas velit possimus natus odit quos debitis odio eos ex. Quae unde aspernatur quasi mollitia magnam distinctio incidunt non magni reiciendis, cupiditate aperiam necessitatibus consequatur suscipit perspiciatis assumenda. Eius voluptas itaque consequuntur cumque vero similique totam deserunt inventore expedita, molestias reprehenderit nesciunt dignissimos eos culpa sit fuga eum. Debitis aspernatur, error officiis, fugit, ipsam, nobis explicabo voluptates commodi cupiditate consequuntur fugiat illo ipsa labore molestiae.</p>
